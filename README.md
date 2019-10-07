@@ -2,7 +2,7 @@
 
 <img src="https://developers.google.com/community/dsc/images/dsc_lockup.png" height="100px">
 
-This repository will contain, code for the task of HTML-Workshop.
+This repository contains, code for the task of HTML-Workshop.
 
 **How to contribute**
 
