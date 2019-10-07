@@ -8,7 +8,7 @@ This repository contains, code for the task of HTML-Workshop.
 
  - Fork the repository and clone.
  - Upload the folder containing the code for the task of HTML-Workshop in your forked repo.
- - The folder name should be of the format: <Your_Name>_<Batch>    For example: JaiParakh_F4
+ - The folder name should be of the format: <Your_Name>_<Your_Batch>    For example: JaiParakh_F4
  - Then add a Pull Request.
  
 **Maintainer**
