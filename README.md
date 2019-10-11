@@ -23,6 +23,8 @@ This repository contains, code for the task of HTML-Workshop.
 [2]: http://www.facebook.com/dscjiitnoida/
 
 
+**I have attatched the screenshot of the Task** 
+<img src="https://github.com/dsc-jiit-128/Hacktoberfest-HTML-Workshop/blob/master/WorkshopTask_UsingHTMLonly.PNG">
 
 
 ### Happy Coding!
